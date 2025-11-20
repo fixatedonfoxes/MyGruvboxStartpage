@@ -27,6 +27,10 @@ html {
 body {
     margin: 0 auto;
     padding: 0;
+    
+    background-image: url("./background.png");
+    background-size: cover;
+    background-position: center;
 }
 
 #container {
@@ -159,3 +163,4 @@ h3 {
    /* font-style: italic; */
     color: var(--color-primary);
 }
+
